@@ -1,178 +1,126 @@
+# 说明
+
+本简历模板由国内首家互联网人才拍卖网站「 [JobDeer.com](http://www.jobdeer.com) 」提供。
+
+（括号里的是我们的顾问编写的说明，建议在简历书写完成后统一删除）
+
+## 先讲讲怎样才是一份好的技术简历
+
+首先，一份好的简历不光说明事实，更通过FAB模式来增强其说服力。
+
+ - Feature：是什么
+ - Advantage：比别人好在哪些地方
+ - Benefit：如果雇佣你，招聘方会得到什么好处 
+
+其次，写简历和写议论文不同，过分的论证会显得自夸，反而容易引起反感，所以要点到为止。这里的技巧是，提供论据，把论点留给阅读简历的人自己去得出。放论据要具体，最基本的是要数字化，好的论据要让人印象深刻。
+
+举个例子，下边内容是虚构的：
+
+2006年，我参与了手机XX网发布系统WAPCMS的开发（```这部分是大家都会写的```）。作为核心程序员，我不但完成了网站界面、调度队列的开发工作，更提出了高效的组件级缓存系统，通过碎片化缓冲有效的提升了系统的渲染效率。（```这部分是很多同学忘掉的，要写出你在这个项目中具体负责的部分，以及你贡献出来的价值。```）在该系统上线后，Web前端性能从10QPS提升到200QPS，服务器由10台减少到3台（``` 通过量化的数字来增强可信度 ```）。2008年我升任WAPCMS项目负责人，带领一个3人小组支持着每天超过2亿的PV（``` 这就是Benefit。你能带给前雇主的价值，也就是你能带给新雇主的价值。 ```）。
+
+有同学问，如果我在项目里边没有那么显赫的成绩可以说怎么办？讲不出成绩时，就讲你的成长。因为学习能力也是每家公司都看中的东西。你可以写你在这个项目里边遇到了一个什么样的问题，别人怎么解决的，你怎么解决的，你的方案好在什么地方，最终这个方案的效果如何。
+
+具体、量化、有说服力，是技术简历特别需要注重的地方。
+
+（以上内容在写完简历后，对每一段进行评估，完成后再删除）
+
 ---
-title: Luke Smith
-linkcolor: blue
-pdf-engine: xelatex
-header-includes:
- - \usepackage[margin=.5in]{geometry}
-classoption: "12pt"
+
+
+# 联系方式
+（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
+
+- 手机：135******** （```如果是外地手机，可注明。如经常关机，要写上最优联系时间```）
+- Email：goodman@gmail.com （```虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G```）
+- QQ/微信号：6*******（```提供一个通过网络可以联系到你的方式```）
+
 ---
 
-# About
+# 个人信息
 
-I'm Luke Smith.
+ - 胶布帝/男/1990 
+ - 本科/萌鹿大学计算机系 
+ - 工作年限：3年
+ - 微博：[@JobDeer](http://weibo.com/jobdeer) （``` 如果没有技术相关内容，也可以不放 ```）
+ - 技术博客：http://blog.github.io ( ``` 使用GitHub Host的Big较高 ```  )
+ - Github：http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
 
-You're looking at a document that doubles as a .pdf CV and a html webpage. However you're viewing this, welcome! A lot of relevant information about me is here.
+ - 期望职位：PHP高级程序员，应用架构师
+ - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+ - 期望城市：北京
 
-You can download this in printable form at [https://lukesmith.xyz/lukesmith.pdf](https://lukesmith.xyz/lukesmith.pdf) or see it in HTML form at [https://lukesmith.xyz](https://lukesmith.xyz).
+---
 
-## My main work
+# 工作经历
+（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
 
-+ I manage the Arch Linux meta-distribution and install scripts [LARBS](https://larbs.xyz).
-+ I'm a doctoral candidate in linguistics at the University of Arizona.
-+ I run a YouTube channel that focuses mainly on technology, targeted mostly towards "power-users".
+## ABC公司 （ 2012年9月 ~ 2014年9月 ）
 
-## Contact
-
-+ Email: [luke@lukesmith.xyz](mailto:luke@lukesmith.xyz)
-+ Website: [https://lukesmith.xyz](https://lukesmith.xyz)
-+ Github: [https://github.com/LukeSmithxyz](https://github.com/LukeSmithxyz)
-+ YouTube: [https://youtube.com/c/LukeSmithxyz](https://youtube.com/c/LukeSmithxyz)
-
-## Institutions
-
-+ Ph.D., Linguistics. University of Arizona. 2015--
-+ M.A., Linguistics. University of Georgia. 2013--2015
-+ Exchange Program, Zhèngzhōu University. 2012.
-+ B.A., International Economics and Modern Languages. Georgia State University. 2009--2012.
-+ Valdosta State University (2008--2009)
-
-# Classes
-
-On the HTML version, scroll over a class for teaching evaluations, if available.
-
-## University of Arizona
-
-### In person
-
-+ LING 300 "Introduction to Syntax".
-: [Syllabus](https://lukesmith.xyz/dox/300/LING300_syllabus.pdf)
-+ LING 150 "Language".
-: Teaching evaluations: [Spring 2017 Wednesday](https://lukesmith.xyz/dox/reviews/tce_sp17_wed.pdf), [Spring 2017 Friday](https://lukesmith.xyz/dox/reviews/tce_sp17_fri.pdf), [Fall 2016](https://lukesmith.xyz/dox/reviews/tce_fa16.pdf), [Spring 2016 10AM Section](https://lukesmith.xyz/dox/reviews/tce_sp16_10.pdf), [Spring 2016 11AM Section](https://lukesmith.xyz/dox/reviews/tce_sp16_11.pdf), [Fall 2015](https://lukesmith.xyz/dox/reviews/tce_fa15.pdf)
-
-### Online
-
-+ LING 150 "Language".
-+ ESOC 210 "The History of Hacking and Open Source Culture".
-
-## University of Georgia
-
-+ LING 2100 "Study of Language".
-: Teaching evaluations: [Spring 2015](https://lukesmith.xyz/dox/reviews/tce_sp15.pdf), [Fall 2014](https://lukesmith.xyz/dox/reviews/tce_fa14.pdf)
-+ LING 3150 "Generative Syntax".
-: [Syllabus](https://lukesmith.xyz/dox/3150.pdf)
-
-# Lectures
-
-## Conference Presentations
-
-+ The Evoution of the Ibero-Romance Irregular Imperfect: A Constraint-based Analysis. 2018. 28th Annual Symposium on Hispanic and Luso-Brazilian Literature, Language and Culture. [Video](https://youtube.com/watch?v=PMPfRFwH1Qw). [Slides (sent)](https://lukesmith.xyz/dox/ling/luke_imperfect).
-+ Scope without Syntax: Towards a Game Theoretic Approach. 2017. UofA Synsalon. [Slides](https://lukesmith.xyz/dox/ling/luke_synsalon.pdf).
-+ Language as Synesthesia. 2017. Tom Bever's Seminar on language and consciousness. [Video](https://youtube.com/watch?v=he4-K3Ir1PY). [Slides](https://lukesmith.xyz/dox/etc/luke_synesthesia.pdf).
-+ Towards Biolinguistic Clarity in Generative Syntax. 2015. The Interdisciplinary Linguististics Conference at UGA.
-+ Syntax is for Real! Parameterization of Head Movement in Korean and its Effects on Scope and Alternations. 2015. LSUGA Tiny Talks.
-+ External Possession and the Undisentanglability of Syntax and Semantics. 2015. University of Georgia Linguistics Program Spring Colloquium.
-+ The acquisition of *tú* and *usted* by English Speakers: A study of non-native knowledge and usage of forms of address. 2013. Georgia State Undergraduate Research Conference.
-+ Theories of contraction: A survey of macroeconomic theories of depression. 2012. Georgia State Undergraduate Research Conference.
-
-## Guest Lectures
-
-This list in non-exhaustive. I've made available some of the slides from the talks, but in many cases I use slides only as a visual aid, so it might be unclear what I'm saying looking at the slides alone.
-
-+ Linguistics Isn't 60 Years Old!: Pāṇinian Approaches to the Syntax and Semantics of Natural Language. 2018. For Simin Karimi's *Major Works in Syntax* class. [Video](https://youtube.com/watch?v=8yZ91YUdRfY).
-+ Quantifier Scope is Just All Fun and Games! Linguistics Department Graduate Student Showcase. 2018. [Video](https://youtube.com/watch?v=5w_PMpQiGL0).
-+ The Origins and Mechanics of the Greek Alphabet. 2017. For Shannon Grippando's *The Psychology of Writing Systems* class. [Handout](https://lukesmith.xyz/dox/etc/greek_alphabet.pdf).
-+ The Phonetics of Language. 2016. For Amy Fountain's *Language* class.
-+ Constituent Structure---What is it and where does it come from?. 2016. For Simin Karimi's *Introduction to Syntax* class. [Some slides](https://lukesmith.xyz/dox/300/luke_constituency_300.pdf).
-+ An Introduction to Minimalism. 2016. For Doug Merchant's *Generative Syntax* class. [Slides](https://lukesmith.xyz/dox/etc/luke_doug_min.pdf).
-+ Optimizing Structure. 2016. For Doug Merchant's *Generative Syntax* class. [Slides](https://lukesmith.xyz/dox/etc/luke_doug_allphon.pdf).
-+ Syntactic Theory and Psycholinguistics. 2015. For Doug Mercant's *Psychology of Language* class. [Slides](https://lukesmith.xyz/dox/etc/syn_psycho.pdf).
-
-# Languages
-
-## Human
-
-Spanish, Mandarin, Latin, some Persian and French, reading knowledge of Classical/Koiné Greek and most Romance languages, grammatical knowledge of many Indo-European languages, Korean, and others.
-
-## Machine
-
-Python, Perl, R, PHP, Matlab/GNU Octave, bash/shell, some superficial knowledge of C, common LISP and Haskel; markup languages including LaTeX, XeLaTeX , R Markdown, HTML and CSS.
-
-# Computing
-
-## Code
-
-+ mutt and offlineIMAP wizard. [Github](https://githib.com/lukesmithxyz/mutt-wizard).
-: A tool for setting up a fully featured personal mail system and offlineIMAP server, with GPG secured passwords, server detection and support for notmuch mail indexing and autosyncing with notification.
-+ shortcut-sync. [Github](https://github.com/lukesmithxyz/shortcut-sync).
-+ Corpus Latinum Lucae. [Github](https://github.com/lukesmithxyz/corpus-latinum).
-: (Still in progress.) A planned Latin corpus to be searchable by regexes. Right now, I've developed a part of speech tagger based on Whitacker's WORDS and some systems for converting Latin HTML files into tagged text documents.
-+ voidrice. [Github](https://github.com/lukesmithxyz/voidrice).
-: My most popular item on Github, dotfiles for an i3-gaps based Linux system. This is my personal config which is employed by LARBS.
-+ LARBS (Luke's Auto-Ricing Bootstrapping Scripts). [Github](https://github.com/lukesmithxyz/larbs). [Website](https://larbs.xyz).
-: A series of scripts that automatically configures a full-featured vim and i3-gaps-based GNU/Linux system on Arch Linux or derived distributions.
-
-## Tools I Use
-
-I have lots of tutorials on many of these programs and tools on my [my YouTube channel](https://youtube.com/c/lukesmithxyz).
-
-### Usual Workflow
-
-I use a **vim**-based setup in a tiling window manager (**i3-gaps**). I compile documents using **R Markdown** or **LaTeX**, and **biber** for references.
-I prefer multimedia manipulation in the terminal with tools like **imagemagick** and **ffmpeg** for extensibilitiy's sake.
-I've run Microsoft Windows, Mac OS X and GNU/Linux systems (both Debian and Arch-based varieties, as well as Void Linux).
-
-### Programs I'm familiar with.
-
-tmux, ssh, RStudio, Blender (mostly for video-editing), Praat, Audacity, E-Prime, GIMP, pandoc, Jupyter. I've managed websites manually via ssh and vim using HTML/CSS/PHP and with tools such as Github Pages (Jekyll) WordPress via either cpanel or wp-cli. Some experience with myBB.
+### DEF项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
 
-# Writings
-
-On the HTML version, scroll over for a summary.
-
-+ A Critique of "Reason". [PDF](https://github.com/LukeSmithxyz/critique-of-reason/blob/master/rational.pdf).
-: A critique of the "Heuristics and Biases" approach to cognition usually associated withe Kahnemann and Tversky. I argue for a variety of ecological rationality, stating that tendencies which seem irrational in experimental conditions are not in the real world, but also that heuristics and biases are all constuable as mental *models* which differ only in scale, where there are often negative returns to scale, making simple heuristics preferable to so-called "optimization".
-
-+ Scope Without Syntax: A Game Theoretic Approach. [PDF](https://github.com/LukeSmithxyz/scope-without-syntax/blob/master/prelim2.pdf).
-: Second qualifying paper. 2017.
-: A Game Theoretic analysis of quantifier scope, arguing that possible scope interpretations fall out from pragmatic assumptions about speaker/hearer intention. One empirical claim is that syntactic rigidity should universally correlate with scope ambiguity, while flexible languages/constructions tend to be scopally non-ambiguous.
-
-+ Syntax Without Syntax. [PDF](https://github.com/LukeSmithxyz/syntax-without-syntax/blob/master/prelim.pdf).
-: First qualifying paper. 2017.
-: Language differences in syntactic word order can be modeled as falling out from otherwise independent prosodic constraints (modeled Optimality Theoretically). Each language has a prosodic pattern and sentential constituents are placed optimally in that template. This avoid grammar overgeneralization that occurs in Halle and Vergnaud.
-
-+ External Possession and the Undisentanglability of Syntax and Semantics. [PDF](https://lukesmith.xyz/thesis.pdf).
-: Master's Thesis. 2015.
-: Many languages have external possession constructions which may be possessive datives, incorporated possessa or other types, but all with an affected possessor abide by subtlely similar syntactic constraints, always disallowing EP from agentive clauses. This is argued to be due to an inherent thematic/semantic hierarchy in the "syntax".
-
-+ Indo-European Particles and Head-Movement-driven Word Order Change. [PDF](https://lukesmith.xyz/dox/ling/luke_pie_wordorder.pdf).
-: An informal squib arguing that word order differences in Indo-European languages were historically telegraphed by particle placement, and verbs moved to unify with particles. I.e. languages with initial  particles gradually shifted to be VSO, languages with second position particles moved to being V2 and later SVO.
-
-+ Scope Markings and Series Phrase Parsing. [PDF](https://lukesmith.xyz/dox/ling/luke_scopemarking.pdf).
-: A crazy idea about scope marking, arguing that if we take a serial approach to prosodification, the vexxing construction of scope marking may in fact be a repair strategy to meet a general desire of the language faculty to group together a question word with where it takes scope, based on an intuition similar to N. Richards' Contiguity Theory.
-
-+ Syntax is Just a Phonological Construct! [PDF](https://lukesmith.xyz/dox/ling/luke_worder.pdf).
-: A precursor write-up to the "Syntax without syntax" paper above.
-
-+ Some countercyclic problems at the nexus of phonology and syntax. [PDF](https://lukesmith.xyz/dox/ling/luke_countercyclic.pdf).
-: A brief write-up ennumerating some aspects of syntax which are tied into prosody/phonology/semantics and how generally they produce counter-cyclicity problems for Generative Grammar and any "Y-modeled" grammar.
-+ Accomodating phonological structure: Extraposition, the EPP and trace effects. [PDF](https://lukesmith.xyz/dox/ling/luke_synphon.pdf).
-: Probably the first "syntax is just phonology" paper I wrote, a term paper. I detail the mismatch between semantic and prosodic structure as the origin of syntactic movement, etc.
+### GHI项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
 
-# Service
+### 其他项目
 
-## University of Arizona
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
 
-+ Coyote Papers Editor for the 2018 Arizona Lingusitics Circle.
-+ Creator and manager of Tom Bever's Language and Cognition Lab site: [coglanglab.com](http://coglanglab.com).
-+ Arizona Linguistics Circle Peer-Reviewer 2017.
-+ Indo-European Reading Group Director. 2015--2016.
+ 
+## JKL公司 （ 2010年3月 ~ 2012年8月 ）
 
-## University of Georgia
+### MNO项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-+ LSUGA Website Manager. 2014--2016.
-+ LSUGA Interdisciplinary Conference in Linguistics Committee Member. 2014--2015.
-+ Graduate Student Mentor. 2014--2015.
-+ Socio-Paths Sociolingusitics Reading Group Co-Director. 2014.
-+ Typology Reading Group Director. 2014.
+
+### PQR项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### 其他项目
+
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+
+---
+
+# 开源项目和作品
+（这一段用于放置工作以外的、可证明你的能力的材料）
+
+## 开源项目
+（对于程序员来讲，没有什么比Show me the code能有说服力了）
+
+ - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+ - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+
+## 技术文章
+（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
+
+- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
+- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
+
+## 演讲和讲义
+（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
+
+  - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
+ - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
+
+# 技能清单
+（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
+
+以下均为我熟练使用的技能
+
+- Web开发：PHP/Hack/Node
+- Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
+- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
+- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
+- 数据库相关：MySQL/PgSQL/PDO/SQLite
+- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
+- 单元测试：PHPUnit/SimpleTest/Qunit
+- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+
+---
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
