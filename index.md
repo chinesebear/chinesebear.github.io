@@ -14,7 +14,7 @@
 
 | 项目     | 链接                                             |
 | -------- | :----------------------------------------------- |
-| 工作实习 | http://chinesebear.github.io/jobs.pdf            |
+| 工作实习 | http://chinesebear.github.io/jobs.html           |
 | 了解我   | http://chinesebear.github.io/yanghailong_cv.html |
 |          |                                                  |
 |          |                                                  |
