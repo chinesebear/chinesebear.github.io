@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 杨海龙 . chinesebear
 
-You can use the [editor on GitHub](https://github.com/chinesebear/chinesebear.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- 现就职于华为编程语言实验室
+- 手机：15996280275
+- 邮箱：swubear@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+华为编程语言实验室长期招聘PL设计、编译器开发、前端开发、DSL设计的工作及实习岗位，有意者投递简历或微信沟通。
 
-### Markdown
+deeplang是一种静态类型、强类型语言，按照C-style设计语法，同时支持面向对象、过程式和逻辑式的混合范式的编程语言。deeplang社区是华为编程语言实验室老师作为指导老师，以浙大、中科大、清华的同学为主要贡献者，开源的方式管理研发活动。现在deeplang社区核心组招聘对编程语言开发的同学，大家一起做好这个自研语言，有兴趣的同学可以投递简历到上述邮箱。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chinesebear/chinesebear.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| 项目     | 链接                                      |
+| -------- | :---------------------------------------- |
+| 工作实习 | http://yanghailong.me/jobs.html           |
+| deeplang | https://github.com/deeplang-org/deeplang  |
+| 我的简历 | http://yanghailong.me/yanghailong_cv.html |
