@@ -8,7 +8,7 @@
 
 #### 基本要求：
 
-- 掌握一门或多门工业编程语言，包括Java、C++、Kotlin、Swift、Python、Haskell、Clojure、Lisp、Rust、Php、Dart、Scala、Julia、Lua、Typescript等（我都快把TIOBE排名抄一遍了，应该有你懂的语言了吧）；
+- 掌握一门或多门工业编程语言，包括Java、C++、C、Go、Kotlin、Swift、Python、Haskell、Clojure、Lisp、Rust、Php、Dart、Scala、Julia、Lua、Typescript、Ruby、JavaScript、C#等（我都快把TIOBE排名抄一遍了，应该有你懂的语言了吧）；
 - 了解计算机基础知识，了解常用的基本数据结构和算法；
 
 #### 优选要求：
