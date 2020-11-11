@@ -16,6 +16,7 @@ a:active, a:hover { outline: 0px; }
 .for-image #write { padding-left: 8px; padding-right: 8px; }
 body.typora-export { padding-left: 30px; padding-right: 30px; }
 .typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
 @media screen and (max-width: 500px) {
   body.typora-export { padding-left: 0px; padding-right: 0px; }
   #write { padding-left: 20px; padding-right: 20px; }
@@ -24,7 +25,7 @@ body.typora-export { padding-left: 30px; padding-right: 30px; }
 }
 #write li > figure:last-child { margin-bottom: 0.5rem; }
 #write ol, #write ul { position: relative; }
-img { max-width: 100%; vertical-align: middle; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
 button, input, select, textarea { color: inherit; font: inherit; }
 input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
@@ -47,7 +48,7 @@ sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); 
 sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
 #write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
 figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
-figure > table { margin: 0px !important; }
+figure > table { margin: 0px; }
 tr { break-inside: avoid; break-after: auto; }
 thead { display: table-header-group; }
 table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
@@ -86,8 +87,9 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
   #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
   html.blink-to-pdf { font-size: 13px; }
-  .typora-export #write { padding-left: 32px; padding-right: 32px; padding-bottom: 0px; break-after: avoid; }
+  .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
 }
 .footnote-line { margin-top: 0.714em; font-size: 0.7em; }
 a img, img a { cursor: pointer; }
@@ -152,6 +154,9 @@ svg[id^="mermaidChart"] { line-height: 1em; }
 mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
 .md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
 mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
 
 
 :root {
@@ -161,12 +166,16 @@ mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
 
 @include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
 
-html {
+/* open-sans-regular - latin-ext_latin */
+  /* open-sans-italic - latin-ext_latin */
+    /* open-sans-700 - latin-ext_latin */
+    /* open-sans-700italic - latin-ext_latin */
+  html {
     font-size: 16px;
 }
 
 body {
-    font-family: "Open Sans","Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: rgb(51, 51, 51);
     line-height: 1.6;
 }
@@ -244,17 +253,33 @@ h6 code {
     font-size: inherit;
 }
 h1 {
-    padding-bottom: .3em;
     font-size: 2.25em;
     line-height: 1.2;
     border-bottom: 1px solid #eee;
 }
 h2 {
-   padding-bottom: .3em;
     font-size: 1.75em;
     line-height: 1.225;
     border-bottom: 1px solid #eee;
 }
+
+/*@media print {
+    .typora-export h1,
+    .typora-export h2 {
+        border-bottom: none;
+        padding-bottom: initial;
+    }
+
+    .typora-export h1::after,
+    .typora-export h2::after {
+        content: "";
+        display: block;
+        height: 100px;
+        margin-top: -96px;
+        border-top: 1px solid #eee;
+    }
+}*/
+
 h3 {
     font-size: 1.5em;
     line-height: 1.43;
@@ -517,7 +542,7 @@ header, .context-menu, .megamenu-content, footer{
  .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} 
 </style>
 </head>
-<body class='typora-export os-windows' >
-<div  id='write'  class = 'is-node'><h1><a name="菊厂pl实验室实习人才引进" class="md-header-anchor"></a><span>菊厂PL实验室实习/人才引进</span></h1><p><span>简历：</span><a href='mailto:yanghailong@huawei.com' target='_blank' class='url'>yanghailong@huawei.com</a></p><p><span>微信：15996280275</span></p><p><span>菊厂编程语言实验室长期招聘PL设计、编译器开发、前端开发、DSL设计的工作及实习岗位，有意者投递简历或微信沟通。</span></p></div>
+<body class='typora-export os-windows'>
+<div id='write'  class=''><h1><a name="菊厂编程语言实验室" class="md-header-anchor"></a><span>菊厂编程语言实验室</span></h1><h3><a name="通用软件工程师" class="md-header-anchor"></a><span>通用软件工程师</span></h3><h4><a name="岗位职责" class="md-header-anchor"></a><span>岗位职责：</span></h4><ul><li><span>参与编程语言的项目；</span></li></ul><h4><a name="基本要求" class="md-header-anchor"></a><span>基本要求：</span></h4><ul><li><span>掌握一门或多门工业编程语言，包括Java、C++、Kotlin、Swift、Python、Haskell、Clojure、Lisp、Rust、Php、Dart、Scala、Julia、Lua、Typescript等（我都快把TIOBE排名抄一遍了，应该有你懂的语言了吧）；</span></li><li><span>了解计算机基础知识，了解常用的基本数据结构和算法；</span></li></ul><h4><a name="优选要求" class="md-header-anchor"></a><span>优选要求：</span></h4><ul><li><p><span>设计过自己的语言，比如Feel语言（实验室专家自己设计的）、deeplang（小可指导设计的编程语言）</span></p></li><li><p><span>对某个编程语言无比热爱，像追跟网剧一样的了解该语言的每个版本。</span></p><p>&nbsp;</p></li></ul><p><span>可以直接加我微信，与我交流，备注：擅长的语言+名字，例如&quot;Scheme+王X&quot;、”Agda+千里XX“</span></p><p><img src="img/mmqrcode1605073129214.png" referrerpolicy="no-referrer" alt="wechat"></p><p>&nbsp;</p></div>
 </body>
 </html>
