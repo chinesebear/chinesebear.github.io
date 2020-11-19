@@ -54,7 +54,7 @@
 3、有任意语言runtime实现经验，包括JVM、JS Engine、Webassembly Runtime等；
 4、有编程语言的静态分析和指针分析技术相关经验；
 
-可以直接加我微信，与我交流，备注：擅长的语言+名字，例如"Haskell+阅千人XX"、”Agda+千里XX“
+可以直接加我微信，与我交流。
 
 ![wechat](img/mmqrcode1605073129214.png)
 
