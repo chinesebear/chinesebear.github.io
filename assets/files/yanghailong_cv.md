@@ -1,17 +1,15 @@
 # 杨海龙 . 华为高级软件工程师
 
-<img align="right" width="150" src="../img/github.jpg" />
+<img align="left" width="150" src="../img/github.jpg" />
 
-2013年4月南京邮电大学电子与通信工程专业研究生毕业。现就职于华为编程语言实验室，担任高级软件工程师。
-
-感兴趣的领域：IoT、嵌入式软件、硬实时操作系统RTOS、轻量化脚本引擎以及面向IoT的编程语言。
+2013年4月南京邮电大学电子与通信工程专业研究生毕业。现就职于华为编程语言实验室，担任高级软件工程师。我感兴趣的领域：IoT、嵌入式软件、硬实时操作系统RTOS、轻量化脚本引擎以及面向IoT的编程语言。
 
 以下是联系方式：
 
 - 手机：15996280275 
 - 邮箱：swubear@163.com
 
-*注：更新时间为2020-11-30。下载我的[CV](http://chinesebear.github.io/assets/files/yanghailong_cv.pdf)。
+*注：更新时间为2020-11-30。下载我的[CV](http://yanghailong.me/assets/files/yanghailong_cv.pdf)。
 
 ---
 

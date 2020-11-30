@@ -13,13 +13,15 @@ layout: home
 
 我的邮箱：swubear@163.com。
 
+如果你对我感兴趣，可以关注我的简历：[pdf](assets/files/yanghailong_cv.pdf)，[Online](http://yanghailong.me/assets/files/yanghailong_cv.html)。
+
 
 
 <h2>华为编程语言实验室</h2>
 
 华为编程语言实验室长期招聘PL设计、编译器开发、前端开发、DSL设计的工作及实习岗位。
 
-**岗位描述JD**：[jobs](assets/files/jobs.html) 
+**岗位描述JD**：[Jobs](assets/files/jobs.html) 
 
 **有意者投递简历或微信沟通：**
 
@@ -27,10 +29,9 @@ layout: home
 
 
 
+<h2>Deeplang社区</h2>
 
-<h2>deeplang社区</h2>
-
-deeplang是一种静态类型、强类型语言，按照C-style设计语法，内存安全，同时支持面向对象、过程式和逻辑式的混合范式的编程语言。deeplang是华为编程语言实验室老师指导的编程语言，主要的贡献者是浙大、中科大、帝国理工的同学。deeplang是开源的方式管理研发活动的。现在deeplang社区核心开发组正在招纳对设计编程语言感兴趣的同学。有意者邮件或微信沟通。
+Deeplang是一种静态类型、强D类型语言，按照C-style设计语法，内存安全，同时支持面向对象、过程式和逻辑式的混合范式的编程语言。Deeplang是华为编程语言实验室老师指导的编程语言，主要的贡献者是浙大、中科大、帝国理工的同学。deeplang是开源的方式管理研发活动的。现在deeplang社区核心开发组正在招纳对设计编程语言感兴趣的同学。有意者邮件或微信沟通。
 
 联系我们deeplang社区管理团队： [Eric](mailto:swubear@163.com)， [Joey](mailto:joey.teng.dev@gmail.com) ，[Thomas](mailto:wenzhang5800@gmail.com) 。
 
