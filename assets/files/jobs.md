@@ -57,5 +57,5 @@
 
 **可以直接加我微信，与我交流。**
 
-![wechat](img/mmqrcode1605073129214.png)
+![wechat](../img/mmqrcode1605073129214.png)
 

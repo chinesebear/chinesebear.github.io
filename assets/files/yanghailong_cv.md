@@ -1,6 +1,6 @@
 # 杨海龙 . 华为高级软件工程师
 
-<img align="right" width="150" src="./img/github.jpg" />
+<img align="right" width="150" src="../img/github.jpg" />
 
 2013年4月南京邮电大学电子与通信工程专业研究生毕业。现就职于华为编程语言实验室，担任高级软件工程师。
 
@@ -9,10 +9,9 @@
 以下是联系方式：
 
 - 手机：15996280275 
-- 微信：15996280275 
 - 邮箱：swubear@163.com
 
-*注：更新时间为2020-08-16。下载CV：http://chinesebear.github.io/yanghailong_cv.pdf。
+*注：更新时间为2020-11-30。下载我的[CV](http://chinesebear.github.io/assets/files/yanghailong_cv.pdf)。
 
 ---
 
