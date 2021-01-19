@@ -21,7 +21,7 @@ layout: home
 
 华为编程语言实验室长期招聘PL设计、编译器开发、前端开发、DSL设计的工作及实习岗位。
 
-**岗位描述JD**：[Jobs](assets/files/jobs.html) 
+**岗位描述JD**：[Jobs](assets/files/jobs.html) / [Intern](assets/files/jobs2.html) 
 
 **有意者投递简历或微信沟通：**
 
