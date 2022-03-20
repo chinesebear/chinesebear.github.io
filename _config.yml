@@ -1,0 +1,8 @@
+markdown: kramdown
+theme: jekyll-theme-slate
+# customisations of the theme
+name: yanghailong.me
+title: yanghailong.me
+author: yanghailong
+description: Yang Hailong's Personal Web Site
+show_downloads: false
