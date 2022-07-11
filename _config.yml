@@ -11,7 +11,7 @@ title                    : "Hailong Yang / Happy Coding"
 title_separator          : "-"
 name                     : &name "Hailong Yang"
 description              : &description "personal description"
-url                      : "http://yanghailong.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yanghailong.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/chinesebear/chinesebear.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -89,20 +89,20 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "swubear@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "http://yanghailong.me"
+  uri              : "https://yanghailong.me"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/chinesebear"
+  github           : "chinesebear"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yanghailong-chinsesebear"
+  linkedin         : "yanghailong-chinsesebear"
   orcid            : "https://orcid.org/0000-0001-9312-8086"
   pinterest        :
   soundcloud       :
