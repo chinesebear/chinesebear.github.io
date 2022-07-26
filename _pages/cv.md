@@ -9,51 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
+<img align="left" width="150" src="../images/profile.png" />
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2022.9 ~ 2026.7(expected), JiangNan University ([JNU](http://www.jiangnan.edu.cn/))
+  * Ph.D in Software Engineering
+* 2010.9 ~ 2013.4,  Nanjing University of Posts and Telecommunications ([NUPT](http://www.njupt.edu.cn/))
+  * M.S. in Electronic and Communication Engineering
+* 2005.9 ~ 2009.9, SouthWest University ([SWU](http://www.swu.edu.cn/))
+  * B.S. in Tea Science
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2018.7 ~ 2022.7, Huawei Programming Language Laboratory
+  * City: Hangzhou, China
+  * Position: Senior Software Engineer
+  * Duties: a new programming language project, standard language libraries project, third-party libraries project , cloud & edge computing project
+* 2015.10 ~ 2018.7, KoolPos
+  * City: Wuxi, China
+  * Position: Senior Embedded Software Engineer
+  * Duties: SmartPos， Mpos
+* 2013.3 ~ 2015.10 , Acatel-Lucnet
+  * City : Nanjing, China
+  * Position : Embedded Software Engineer
+  * Duties :  Lucent RRH(Remote Radio Header)
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English: CET-4(496)/CET-6(467)
+* Embedded Develop: C/Keil/IAR/FPGA/IoT/HiLink
+* OS: FreeRTOS/RT-Thread/LiteOS/HarmonyOS
+* Web: CodeIgniter/EasyUI
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
