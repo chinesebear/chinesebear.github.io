@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Hailong Yang
+===
+I am currently a PhD student of SE at JiangNan University([JNU](https://www.jiangnan.edu.cn/)), under the supervision of Professor [Zhaohong Deng](http://ai.jiangnan.edu.cn/info/1013/1548.htm). Before that, I worked in Huawei Compiler & Promgramming Language Laboratory from July 2018 to July 2022.  I did my Master of EE at Nangjing University of Posts and Telecommunications([NUPT](http://www.njupt.edu.cn/)), supervised by Professor [Chen Liu](https://dsfc.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52B282DCFE050007F01006EFE). My undergrad was at SouthWest University([SWU](http://www.swu.edu.cn/)). <br>
+I am mainly working on fuzzy system, fuzzy logic and domain specific language(DSL). I am particularly interested in compiler, transpiler, RTOS, Embeded AI and IoT.<br>
+
+My email : yanghailong@stu.jiangnan.edu.cn <br>
+Feel free to contact me via email if you are interested!
+
 Education
 ======
 * 2022.9 ~ 2026.7(expected), JiangNan University([JNU](http://www.jiangnan.edu.cn/))
@@ -28,7 +36,7 @@ Work experience
   * City: Wuxi, China
   * Position: Senior Embedded Software Engineer
   * Duties: SmartPos, Mpos
-* 2013.3 ~ 2015.10 , Acatel-Lucnet
+* 2013.3 ~ 2015.10 , Alcatel-Lucnet
   * City : Nanjing, China
   * Position : Embedded Software Engineer
   * Duties :  Lucent RRH(Remote Radio Header)
