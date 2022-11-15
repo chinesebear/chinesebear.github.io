@@ -12,10 +12,10 @@ redirect_from:
 Hailong Yang
 ===
 I am currently a PhD student of SE at JiangNan University([JNU](https://www.jiangnan.edu.cn/)), under the supervision of Professor [Zhaohong Deng](http://ai.jiangnan.edu.cn/info/1013/1548.htm). Before that, I worked in Huawei Compiler & Promgramming Language Laboratory from July 2018 to July 2022.  I did my Master of EE at Nangjing University of Posts and Telecommunications([NUPT](http://www.njupt.edu.cn/)), supervised by Professor [Chen Liu](https://dsfc.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52B282DCFE050007F01006EFE). My undergrad was at SouthWest University([SWU](http://www.swu.edu.cn/)). <br>
-I am mainly working on fuzzy system, fuzzy logic and domain specific language(DSL). I am particularly interested in compiler, transpiler, RTOS, Embeded AI and IoT.<br>
+I am mainly working on fuzzy system, code generation and machine learning. I am also interested in programming language, domain specific language(DSL), compiler, transpiler, RTOS, AIoT and TinyML.<br>
 
 My email : yanghailong@stu.jiangnan.edu.cn <br>
-Feel free to contact me via email if you are interested!
+Please feel free to contact me via email if you are interested!
 
 Education
 ======
@@ -31,12 +31,12 @@ Work experience
 * 2018.7 ~ 2022.7, Huawei Programming Language Laboratory
   * City: Hangzhou, China
   * Position: Senior Software Engineer
-  * Duties: a new programming language project, standard language libraries project, third-party libraries project , cloud & edge computing project
+  * Duties: cangjie programming language project: cangjie compiler, standard language libraries, third-party libraries; cloud & edge computing project: maplejs engine, smarthome iot libraries
 * 2015.10 ~ 2018.7, KoolPos
   * City: Wuxi, China
   * Position: Senior Embedded Software Engineer
   * Duties: SmartPos, Mpos
-* 2013.3 ~ 2015.10 , Alcatel-Lucnet
+* 2013.3 ~ 2015.10 , Alcatel-Lucent
   * City : Nanjing, China
   * Position : Embedded Software Engineer
   * Duties :  Lucent RRH(Remote Radio Header)

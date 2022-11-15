@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hailong Yang / Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hailong Yang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hailong Yang"
   avatar           : "profile.png"
-  bio              : "His interests are Fuzzy System, Compiler, PL, AIoT and TinyML."
+  bio              : "His interests are Fuzzy System, Code Generation, Machine Learning, Compiler, PL and TinyML."
   location         : "Wuxi, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
