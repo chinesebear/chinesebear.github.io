@@ -1,7 +1,7 @@
 ---
 title: 'BioEng talk'
-date: 2012-08-14
-permalink: /posts/2022/10/latex-math-symbols/
+date: 2023-04-25
+permalink: /posts/2023/04/bioeng-talk/
 tags:
   - talk
   - huawei
