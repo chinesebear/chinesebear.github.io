@@ -8,7 +8,7 @@ date: 2023-08-12
 location: "Nangjing China"
 ---
 
-Cangjie Communiy kol communication. This talk is about cangjie library development.[Download slides here](https://yanghailong.me/files/cangjie_kol.pdf)
+Cangjie Communiy kol communication. This talk is about cangjie library development.[Download slides here](https://yanghailong.me/files/cangjie-kol-talk.pdf)
 
 
 Talk Information
