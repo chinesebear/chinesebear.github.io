@@ -2,7 +2,7 @@
 title: "cangjie transpiling tools: code_tools"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink:
 venue: "China online"
 date: 2022-10-29
 location: "China online"
