@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-08-12-talk-cangjie-kol
 venue: "China online"
-date: 2023-08-27
+date: 2023-08-26
 location: "China online"
 ---
 
@@ -14,4 +14,4 @@ Cangjie Communiy 13th Workshop. This talk is about project CangChain. CangChain 
 Talk Information
 ======
 
-<img src='/images/workshop0826.png' width='100%'><br>
+<img src='/images/cangchain.png' width='100%'><br>
