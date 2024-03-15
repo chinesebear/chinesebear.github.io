@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about Drug-Target Interaction Prediction.'
 date: 2024-03-15
 venue: 'Bioinformatics'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1093/bioinformatics/btae147'
 citation: '<b>Hailong Yang</b>, Yue Chen, Yun Zuo, Zhaohong Deng, Xiaoyong Pan, Hong-Bin Shen, Kup-Sze Choi, Dong-Jun Yu; <b>Bioinformatics</b>, 2024;'
 ---
 This paper is about Drug-Target Interaction Prediction.
