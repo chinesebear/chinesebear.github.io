@@ -3,7 +3,7 @@ title: "LLM Programming Framework and Interpretable Agents"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-08-26-talk-cangjie-workshop
-venue: "Suzhou, China"
+venue: "CCF Building"
 date: 2023-11-26
 location: "Suzhou, China"
 ---

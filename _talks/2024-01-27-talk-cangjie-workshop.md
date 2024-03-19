@@ -3,9 +3,9 @@ title: "CangChain Framework and Agent"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-11-26-talk-ccf-rlchina2023
-venue: "China online"
+venue: "Online"
 date: 2024-01-27
-location: "China online"
+location: "China"
 ---
 
 Cangjie Communiy 18th Workshop. This talk is about project CangChain and rule-based Agents.[Download slides here](https://yanghailong.me/files/cangchain-agent.pdf)
