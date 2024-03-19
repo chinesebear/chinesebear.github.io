@@ -1,5 +1,5 @@
 ---
-title: "cangjie kol share"
+title: "Cangjie KOL Share"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-03-25-talk-cangjie-workshop

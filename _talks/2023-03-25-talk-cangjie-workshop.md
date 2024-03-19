@@ -1,5 +1,5 @@
 ---
-title: "cangjie fuzzy clustering library: FCM"
+title: "Cangjie Fuzzy Clustering Library: FCM"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-10-29-talk-cangjie-workshop

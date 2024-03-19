@@ -1,5 +1,5 @@
 ---
-title: "LLM programming framework and interpretable agents"
+title: "LLM Programming Framework and Interpretable Agents"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-08-26-talk-cangjie-workshop

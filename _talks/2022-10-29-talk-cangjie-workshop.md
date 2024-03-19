@@ -1,5 +1,5 @@
 ---
-title: "cangjie transpiling tools: code_tools"
+title: "Cangjie Transpiling Tools: code_tools"
 collection: talks
 type: "Talk"
 permalink:
