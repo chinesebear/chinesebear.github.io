@@ -24,6 +24,7 @@ Deeplang: A programming language for IoT device. <br>
 WebSite: [https://deeplang.org](https://deeplang.org) <br>
 GitHub: [https://github.com/deeplang-org](https://github.com/deeplang-org) <br>
 
+## Cangjie
 <img src="/images/Cangjie-logo.png" width="15%"/>
 
 Cangjie Programming Language. <br>

@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hailong Yang"
   avatar           : "profile.png"
-  bio              : "He is PhD candidate of JNU. His interests are Fuzzy System, Code Generation, Machine Learning, Compiler, PL and TinyML."
+  bio              : "He is PhD candidate of JNU. His interests are Generative Fuzzy System and LLM-based Multi-Agent System."
   location         : "Wuxi, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
