@@ -1,7 +1,7 @@
 ---
 title: 'Latex Math Symbols'
 date: 2022-10-12
-permalink: /posts/2022/10/latex-math-symbols/
+permalink: 
 tags:
   - latex
   - math
