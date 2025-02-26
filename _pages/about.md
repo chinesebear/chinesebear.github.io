@@ -31,6 +31,13 @@ Cangjie Programming Language. <br>
 WebSite: [https://cangjie-lang.cn/](https://cangjie-lang.cn/) <br>
 From 2018 to 2022, I served as a core member of the Cangjie team at Huawei's Programming Language Lab. <br>
 
+## CangChain
+<img src="/images/cangchain-logo.png" width="15%"/>
+
+CangChain: A Multi-Agent System Framework based on Cangjie. <br>
+WebSite: [https://gitcode.com/Cangjie-TPC/CangChain](https://gitcode.com/Cangjie-TPC/CangChain) <br>
+This project is conducted as part of my PhD research.
+
 
 
 
