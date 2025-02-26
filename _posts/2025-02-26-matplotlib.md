@@ -8,13 +8,14 @@ tags:
   - category2
 ---
 
+Matplotlib Record.
 
 matplotlib color pannel
 ======
 <img src='/images/matplotlib color pannel.png' width='100%'><br>
 
 
-multi-figure codes
+multi-subplot codes
 ======
 More...
 
