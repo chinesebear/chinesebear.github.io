@@ -1,7 +1,7 @@
 ---
 title: 'Matplotlib'
 date: 2025-02-26
-permalink: /posts/2025/02/matplotlib/
+permalink: /posts/2023-04-25-bioeng-talk
 tags:
   - cool posts
   - category1

@@ -11,8 +11,8 @@ redirect_from:
 
 Hailong Yang
 ===
-I am currently a PhD student of SE at JiangNan University([JNU](https://www.jiangnan.edu.cn/)), under the supervision of Professor [Zhaohong Deng](http://ai.jiangnan.edu.cn/info/1013/1548.htm). Before that, I worked in Huawei Compiler & Promgramming Language Laboratory from July 2018 to July 2022.  I did my Master of EE at Nangjing University of Posts and Telecommunications([NUPT](http://www.njupt.edu.cn/)), supervised by Professor [Chen Liu](https://dsfc.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52B282DCFE050007F01006EFE). My undergrad was at SouthWest University([SWU](http://www.swu.edu.cn/)). <br>
-I am mainly working on fuzzy system, code generation and machine learning. I am also interested in programming language, domain specific language(DSL), compiler, transpiler, RTOS, AIoT and TinyML.<br>
+I am currently a PhD student of SE at JiangNan University([JNU](https://www.jiangnan.edu.cn/)), under the supervision of Professor [Zhaohong Deng](http://ai.jiangnan.edu.cn/info/1013/1548.htm). Before that, I worked in Huawei Compiler & Promgramming Language Laboratory from July 2018 to July 2022.  I did my Master of EE at Nangjing University of Posts and Telecommunications([NUPT](http://www.njupt.edu.cn/)), supervised by Professor [Chen Liu](https://baike.baidu.com/item/%E5%88%98%E9%99%88/4206045). My undergrad was at SouthWest University([SWU](http://www.swu.edu.cn/)). <br>
+I am mainly working on Generative Fuzzy System and LLM-based Multi-Agent System. I am also interested in Programming Language, Compiler, DSL.<br>
 My chinese resume:[Download here](https://yanghailong.me/files/yanghailong-cn-cv.pdf)
 
 My email : yanghailong@stu.jiangnan.edu.cn <br>
@@ -42,32 +42,9 @@ Work experience
   * Position : Embedded Software Engineer
   * Duties :  Lucent RRH(Remote Radio Header)
 
-Skills
-======
-
-* English: CET-4(496)/CET-6(467)
-* Embedded Develop: C/Keil/IAR/FPGA/IoT/HiLink
-* OS: FreeRTOS/RT-Thread/LiteOS/HarmonyOS
-* Web: CodeIgniter/EasyUI
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
