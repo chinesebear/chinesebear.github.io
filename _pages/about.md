@@ -18,21 +18,21 @@ Projects
 ======
 ## Deeplang
 
-<img src="/images/deeplang-logo.png" height="9%"/>
+<img src="/images/deeplang-logo.png" height="40"/>
 
 Deeplang: A programming language for IoT device. <br>
 WebSite: [https://deeplang.org](https://deeplang.org) <br>
 GitHub: [https://github.com/deeplang-org](https://github.com/deeplang-org) <br>
 
 ## Cangjie
-<img src="/images/Cangjie-logo.png" height="8%"/>
+<img src="/images/Cangjie-logo.png" height="40"/>
 
 Cangjie Programming Language. <br>
 WebSite: [https://cangjie-lang.cn/](https://cangjie-lang.cn/) <br>
 From 2018 to 2022, I served as a core member of the Cangjie team at Huawei's Programming Language Lab. <br>
 
 ## CangChain
-<img src="/images/cangchain-logo.png" height="25%"/>
+<img src="/images/cangchain-logo.png" height="40"/>
 
 CangChain: A Multi-Agent System Framework based on Cangjie. <br>
 WebSite: [https://gitcode.com/Cangjie-TPC/CangChain](https://gitcode.com/Cangjie-TPC/CangChain) <br>
