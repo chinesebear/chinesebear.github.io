@@ -1,5 +1,5 @@
 ---
-title: "PLOC Blue Book 2024"
+title: "Deepseek Analysis Talk"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-11-03-talk-COSCon
